@@ -3,7 +3,7 @@
 :root {
     --font-family: 'Golos Text', sans-serif;
     --bg-color: #0081C9 ;
-    --primary-color: #C0DEFF ; 
+    --primary-color: #FAF8F1 ; 
 }
 
 body {
@@ -20,6 +20,10 @@ body {
 }
 
 h1 {
+    font-size: 5em;
+}
+
+h2 {
     font-size: 4em;
 }
 
